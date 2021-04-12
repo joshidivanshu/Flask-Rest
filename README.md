@@ -1,5 +1,5 @@
 # Flask-Rest
-API for CRUD using JWT Authentication(Customised) &amp; SQLAlchemy
+API for CRUD using Token Authentication(Customised) &amp; SQLAlchemy
 
 
 ## Installing Requirements
